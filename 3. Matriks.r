@@ -1,3 +1,4 @@
+#Ini filenya sama dengan yang Matrix Studio
 1:20 #cara cepat menuliskan rentang bilangan tanpa bil <- c(1,2,..20)
 6:21
 bil <- 1:20
